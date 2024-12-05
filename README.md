@@ -27,7 +27,6 @@ sudo apt update && sudo apt install terraform
   <li>Use Homebrew to install Terraform:</li>
 </ol>
 
-```bash
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
 
