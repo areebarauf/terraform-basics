@@ -12,6 +12,11 @@
   <li>Select and download the binary appropriate for Windows.</li>
 </ol>
 
+<h3 style="color:blue;">For Linux</h3>
+<ol> 
+    <li>Run the following commands to install Terraform:</li> 
+</ol>
+
 <h3 style="color:blue;">For macOS</h3>
 <ol>
   <li>Use Homebrew to install Terraform:</li>
@@ -21,7 +26,3 @@
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
 
-<h3 style="color:blue;">For Linux</h3>
-<ol> 
-    <li>Run the following commands to install Terraform:</li> 
-</ol>
